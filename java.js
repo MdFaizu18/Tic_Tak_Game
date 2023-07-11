@@ -14,7 +14,7 @@ window.addEventListener('DOMcontentLoaded', () => {
 });
 
 tiles.addEventListener("click", () => {
-	tiles.innerHTML = "X";
+	tiles.innerHTML = 'X';
 });
 
 
